@@ -26,3 +26,10 @@ To run backend in another terminal:
 - tech stack (database)
 - set up backend
 - one API point accessible locally that can retrieve data
+
+## What was used 
+- HTML creates and structures the website's content
+- CSS adds style and formatting to these structures
+- `Javascript` turns those stylized components into something that a user can interact with
+- MongoDB
+- File format: JSON (JavaScript Object Notation) uses human-readable text to store and transmit data objects consisting of attribute–value pairs and arrays
