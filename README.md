@@ -18,7 +18,7 @@ To run backend in another terminal:
 
 ## Workflow:
 ### Frontend 
-- routing + pages 
+- routing (ecommerce-app/src/**App.js**) + pages 
 - integrate tailwind CSS styles into pages
 - product card 
 
@@ -28,6 +28,7 @@ To run backend in another terminal:
 - one API point accessible locally that can retrieve data
 
 ## What was used 
+- React 
 - HTML creates and structures the website's content
 - CSS adds style and formatting to these structures
 - `Javascript` turns those stylized components into something that a user can interact with
